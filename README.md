@@ -1,4 +1,4 @@
-#This is my testing repository to learn GitHub  
+#This is my GitHub repository used for testing and learning    
 
 Creating a new branch __dev1__ in GitHub from *master*  
 Make some changes in __README.md__ file and commit  
